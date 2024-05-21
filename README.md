@@ -7,7 +7,7 @@ Aave V2 protocol subgraphs are hosted on the Graph Protocol Network and use a st
 https://thegraph.com/explorer/subgraphs/C2zniPn45RnLDGzVeGZCx2Sw3GXrbc9gL4ZfL8B8Em2j?v=0&view=Playground&chain=arbitrum-one
 
 **Example Query**
-The Query.graphql file do checkout 
+The Query.graphql file do check
 
 **Result of Query**
 In result.txt file 
